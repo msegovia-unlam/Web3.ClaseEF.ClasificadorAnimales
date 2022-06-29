@@ -1,0 +1,15 @@
+C:\Users\Martin\source\repos\ClaseEF.ClasificadorAnimales.Web\ClaseEF.ClasificadorAnimales.Data\bin\Debug\net5.0\ClaseEF.ClasificadorAnimales.Data.deps.json
+C:\Users\Martin\source\repos\ClaseEF.ClasificadorAnimales.Web\ClaseEF.ClasificadorAnimales.Data\bin\Debug\net5.0\ClaseEF.ClasificadorAnimales.Data.runtimeconfig.json
+C:\Users\Martin\source\repos\ClaseEF.ClasificadorAnimales.Web\ClaseEF.ClasificadorAnimales.Data\bin\Debug\net5.0\ClaseEF.ClasificadorAnimales.Data.runtimeconfig.dev.json
+C:\Users\Martin\source\repos\ClaseEF.ClasificadorAnimales.Web\ClaseEF.ClasificadorAnimales.Data\bin\Debug\net5.0\ClaseEF.ClasificadorAnimales.Data.dll
+C:\Users\Martin\source\repos\ClaseEF.ClasificadorAnimales.Web\ClaseEF.ClasificadorAnimales.Data\bin\Debug\net5.0\ClaseEF.ClasificadorAnimales.Data.pdb
+C:\Users\Martin\source\repos\ClaseEF.ClasificadorAnimales.Web\ClaseEF.ClasificadorAnimales.Data\obj\Debug\net5.0\ClaseEF.ClasificadorAnimales.Data.csproj.AssemblyReference.cache
+C:\Users\Martin\source\repos\ClaseEF.ClasificadorAnimales.Web\ClaseEF.ClasificadorAnimales.Data\obj\Debug\net5.0\ClaseEF.ClasificadorAnimales.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\source\repos\ClaseEF.ClasificadorAnimales.Web\ClaseEF.ClasificadorAnimales.Data\obj\Debug\net5.0\ClaseEF.ClasificadorAnimales.Data.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\ClaseEF.ClasificadorAnimales.Web\ClaseEF.ClasificadorAnimales.Data\obj\Debug\net5.0\ClaseEF.ClasificadorAnimales.Data.AssemblyInfo.cs
+C:\Users\Martin\source\repos\ClaseEF.ClasificadorAnimales.Web\ClaseEF.ClasificadorAnimales.Data\obj\Debug\net5.0\ClaseEF.ClasificadorAnimales.Data.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\ClaseEF.ClasificadorAnimales.Web\ClaseEF.ClasificadorAnimales.Data\obj\Debug\net5.0\ClaseEF.ClasificadorAnimales.Data.dll
+C:\Users\Martin\source\repos\ClaseEF.ClasificadorAnimales.Web\ClaseEF.ClasificadorAnimales.Data\obj\Debug\net5.0\refint\ClaseEF.ClasificadorAnimales.Data.dll
+C:\Users\Martin\source\repos\ClaseEF.ClasificadorAnimales.Web\ClaseEF.ClasificadorAnimales.Data\obj\Debug\net5.0\ClaseEF.ClasificadorAnimales.Data.pdb
+C:\Users\Martin\source\repos\ClaseEF.ClasificadorAnimales.Web\ClaseEF.ClasificadorAnimales.Data\obj\Debug\net5.0\ClaseEF.ClasificadorAnimales.Data.genruntimeconfig.cache
+C:\Users\Martin\source\repos\ClaseEF.ClasificadorAnimales.Web\ClaseEF.ClasificadorAnimales.Data\obj\Debug\net5.0\ref\ClaseEF.ClasificadorAnimales.Data.dll

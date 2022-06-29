@@ -1,0 +1,34 @@
+﻿@model List<ClaseEF.ClasificadorAnimales.Data.EF.Animal>
+<form action="/animal/lista" method="post">
+    <div>
+        Tipo Animal:
+        <select name="IdTipoAnimal">
+            <option value="">Tipo Animal</option>
+            @foreach (var tipoAnimal in (List<ClaseEF.ClasificadorAnimales.Data.EF.TipoAnimal>) ViewBag.TipoAnimales)
+           {
+               <option value="@tipoAnimal.IdTipoAnimal">@tipoAnimal.Nombre</option>
+           }
+        </select>
+        <input type="submit" name="Filtrar" value="Filtrar" />
+    </div>
+
+    <table>
+        <tr>
+            <th>NOMBRE</th>
+            <th>PESO(KG)</th>
+            <th>EDAD(AÑOS)</th>
+            <th>TIPO</th>
+            <th>BORRAR</th>
+        </tr>
+        @foreach (var animal in Model)
+       {
+           <tr>
+               <td>@animal.NombreEspecie</td>
+               <td>@animal.PesoPromedio</td>
+               <td>@animal.EdadPromedio</td>
+               <td>@animal.IdTipoAnimalNavigation.Nombre</td>
+               <td><a href="/Animal/borrar/@animal.IdAnimal">Borrar</a></td>
+           </tr>
+       }
+    </table>
+</form>

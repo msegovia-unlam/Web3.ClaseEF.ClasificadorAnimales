@@ -1,0 +1,15 @@
+C:\Users\Martin\source\repos\ClaseEF.ClasificadorAnimales.Web\ClaseEF.ClasificadorAnimales.Servicios\bin\Debug\net5.0\ClaseEF.ClasificadorAnimales.Servicios.deps.json
+C:\Users\Martin\source\repos\ClaseEF.ClasificadorAnimales.Web\ClaseEF.ClasificadorAnimales.Servicios\bin\Debug\net5.0\ClaseEF.ClasificadorAnimales.Servicios.dll
+C:\Users\Martin\source\repos\ClaseEF.ClasificadorAnimales.Web\ClaseEF.ClasificadorAnimales.Servicios\bin\Debug\net5.0\ClaseEF.ClasificadorAnimales.Servicios.pdb
+C:\Users\Martin\source\repos\ClaseEF.ClasificadorAnimales.Web\ClaseEF.ClasificadorAnimales.Servicios\bin\Debug\net5.0\ClaseEF.ClasificadorAnimales.Data.dll
+C:\Users\Martin\source\repos\ClaseEF.ClasificadorAnimales.Web\ClaseEF.ClasificadorAnimales.Servicios\bin\Debug\net5.0\ClaseEF.ClasificadorAnimales.Data.pdb
+C:\Users\Martin\source\repos\ClaseEF.ClasificadorAnimales.Web\ClaseEF.ClasificadorAnimales.Servicios\obj\Debug\net5.0\ClaseEF.ClasificadorAnimales.Servicios.csproj.AssemblyReference.cache
+C:\Users\Martin\source\repos\ClaseEF.ClasificadorAnimales.Web\ClaseEF.ClasificadorAnimales.Servicios\obj\Debug\net5.0\ClaseEF.ClasificadorAnimales.Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\source\repos\ClaseEF.ClasificadorAnimales.Web\ClaseEF.ClasificadorAnimales.Servicios\obj\Debug\net5.0\ClaseEF.ClasificadorAnimales.Servicios.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\ClaseEF.ClasificadorAnimales.Web\ClaseEF.ClasificadorAnimales.Servicios\obj\Debug\net5.0\ClaseEF.ClasificadorAnimales.Servicios.AssemblyInfo.cs
+C:\Users\Martin\source\repos\ClaseEF.ClasificadorAnimales.Web\ClaseEF.ClasificadorAnimales.Servicios\obj\Debug\net5.0\ClaseEF.ClasificadorAnimales.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\ClaseEF.ClasificadorAnimales.Web\ClaseEF.ClasificadorAnimales.Servicios\obj\Debug\net5.0\ClaseEF.ClasificadorAnimales.Servicios.csproj.CopyComplete
+C:\Users\Martin\source\repos\ClaseEF.ClasificadorAnimales.Web\ClaseEF.ClasificadorAnimales.Servicios\obj\Debug\net5.0\ClaseEF.ClasificadorAnimales.Servicios.dll
+C:\Users\Martin\source\repos\ClaseEF.ClasificadorAnimales.Web\ClaseEF.ClasificadorAnimales.Servicios\obj\Debug\net5.0\refint\ClaseEF.ClasificadorAnimales.Servicios.dll
+C:\Users\Martin\source\repos\ClaseEF.ClasificadorAnimales.Web\ClaseEF.ClasificadorAnimales.Servicios\obj\Debug\net5.0\ClaseEF.ClasificadorAnimales.Servicios.pdb
+C:\Users\Martin\source\repos\ClaseEF.ClasificadorAnimales.Web\ClaseEF.ClasificadorAnimales.Servicios\obj\Debug\net5.0\ref\ClaseEF.ClasificadorAnimales.Servicios.dll
